@@ -1,6 +1,6 @@
 # Digital-Scope-Control-Software - BYFIRE
 
-I did it from end to end. We worked with 3 colleague. I was the manager.
+I ve done all project end to end. We worked with 3 colleague. I was the manager.
 
 Automatic shooting software that calculates targeting, aiming, distance, THIA, AHIA, Tevcih etc. calculations according to real coordinates for military standards.
 Minimizing the user/solider error to % 5-6.
