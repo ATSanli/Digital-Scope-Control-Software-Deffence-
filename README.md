@@ -6,4 +6,4 @@ Automatic shooting software that calculates targeting, aiming, distance, THIA, A
 Minimizing the user/solider error to % 5-6.
 Auto Calculation from tablet to Control unit.
 
-MORE INFO AND CODES HAVENT BEEN ALLOWED TO BE SHARED.
+MORE INFO AND CODES HAVENT BEEN ALLOWED TO BE SHARED.(Python)
